@@ -9,3 +9,13 @@
 - WebMVC
 
 - DotNet 6
+
+$FRNT-END
+
+- HTML / CSS / JS
+
+$BACK-END
+
+- API em nodeJs 18.12.0
+
+- banco de dados SQLServer 2019
